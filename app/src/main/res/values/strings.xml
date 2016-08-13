@@ -13,6 +13,7 @@
     <string name="widget_title" translatable="true">Status</string>
     <string name="changePercentDollar" translatable="true">percent or dollar change </string>
     <string name="empty_stock_list" translatable="true">Cannot fetch information</string>
+    <string name="already_saved_stock" translatable="true">This stock is already saved!</string>
     <string name="sample_item_name">DEMO</string>
     <string name="sample_item_price">00</string>
 </resources>
